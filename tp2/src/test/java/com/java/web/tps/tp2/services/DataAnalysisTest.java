@@ -18,6 +18,6 @@ class DataAnalysisTest {
         team="AC Milan";
         year = "2011";
 
-        assertEquals(DataAnalysis.totalGoals(year,team), 60);
+        assertEquals(DataAnalysis.totalGoals(year,team), 90);
     }
 }
